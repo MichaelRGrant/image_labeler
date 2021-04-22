@@ -1,9 +1,9 @@
-from typing import ClassVar
 import glob
 import os
-
 from tkinter import *
 from tkinter import ttk
+from typing import ClassVar
+
 from PIL import Image, ImageTk
 
 
